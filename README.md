@@ -8,4 +8,4 @@ AI-GoBang Game console application.
 Programming Language: Java;  
 Project management tools: Maven;  
 GUI Widget Toolkit: Swing;  
-Algorithm: Minimax Search, Alpha–beta pruning; 
+Algorithm: DFS; 

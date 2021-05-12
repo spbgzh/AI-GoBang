@@ -26,7 +26,7 @@
    map       |          Map of board         |   int[ ][ ]           |
    AI        |   Numbers represented by AI   |   static final int    |
    HUMAN     | Numbers represented by human  |   static final int    |
-   firstPlay |   Who will play chess first   |   int                 |
+   firstPlay |   Who will play chess first   |   static int          |
    
 3. Class ChessPanel  
    The ChessPanel class is responsible for board display, interaction, and placement on the view,
