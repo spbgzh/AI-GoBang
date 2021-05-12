@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="AI-GoBang:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/AI_GoBang_jar</output-path>
-    <root id="archive" name="AI-GoBang.jar">
-      <element id="module-output" name="AI-GoBang" />
-    </root>
-  </artifact>
-</component>
