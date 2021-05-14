@@ -146,7 +146,7 @@
     
    The frame layout is controlled by the ChessGUI class, which is mainly divided into two parts: the toolbar at the top and the chessboard panel in the center. The toolbar has two Actions: reopen a game, which player first, set the board initialization and which player play first.
 
-   #### Toolbar and Panel
+   #### Toolbar And Panel
    
    Toolbar is from JToolBar, and Panel is from chessPanel which drawed by JPanel.
 
