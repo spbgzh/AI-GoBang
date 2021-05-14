@@ -1,6 +1,6 @@
 # AI-GoBang
 AI-GoBang Game console application.  
-![](https://img.shields.io/badge/wechat-Spbgzh-green) 
+![](https://img.shields.io/badge/VK-zjjhgzh-green) 
 ![](https://img.shields.io/badge/mail-spbgzh%40niuitmo.ru-blue)  
 
 
@@ -8,4 +8,3 @@ AI-GoBang Game console application.
 Programming Language: Java;  
 Project management tools: Maven;  
 GUI Widget Toolkit: Swing;  
-Algorithm: DFS; 
