@@ -12,7 +12,6 @@ Think through the opponent's perspective to achieve defense.
 Programming Language: Java;  
 Project management tools: Maven; 
 GUI Widget Toolkit: Swing;  
-Algorithm: DFS;  
 ## Main Problem
 1.There are a total of 225 points on the board, How to improve the efficiency of traversal and calculation?  
 2.How to score empty positions?  
