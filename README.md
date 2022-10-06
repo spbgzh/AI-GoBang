@@ -10,7 +10,8 @@ It's an AI-GoBang Game console application.
 
 ## Usage
 
-After running the program, you can choose whether to play chess first, and then the user and the computer take turns to play chess, whoever reaches five pieces first to form a line wins.  
+After running the program, you can choose whether to play chess first, and then the user and the computer take turns to play chess.
+whoever reaches five pieces first to form a line wins.  
 
 ## Development Documentation And Specific Details
 
